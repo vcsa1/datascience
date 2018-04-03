@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Microsoft Office User</Author>
+  <LastAuthor>Microsoft Office User</LastAuthor>
+  <Created>2018-03-30T18:24:39Z</Created>
+  <Version>15.0</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <PixelsPerInch>96</PixelsPerInch>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>17540</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>460</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <NumberFormat ss:Format="#,##0"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="change_in_daily_trips">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="25" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
+   <Row>
+    <Cell><Data ss:Type="String">Hour</Data></Cell>
+    <Cell><Data ss:Type="String">Uber and Lyft Trips in MN Core (Sep 2014)</Data></Cell>
+    <Cell><Data ss:Type="String">Change in Daily Yellow Trips in MN Core (Sep 2014 compared with Sep 2013)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">739</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">-1460</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">556</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">-1135</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">429</Data></Cell>
+    <Cell><Data ss:Type="Number">-930</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">395</Data></Cell>
+    <Cell><Data ss:Type="Number">-782</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">373</Data></Cell>
+    <Cell><Data ss:Type="Number">-561</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">497</Data></Cell>
+    <Cell><Data ss:Type="Number">-140</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">818</Data></Cell>
+    <Cell><Data ss:Type="Number">130</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1107</Data></Cell>
+    <Cell><Data ss:Type="Number">-63</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1119</Data></Cell>
+    <Cell><Data ss:Type="Number">-449</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="Number">914</Data></Cell>
+    <Cell><Data ss:Type="Number">-666</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">902</Data></Cell>
+    <Cell><Data ss:Type="Number">-584</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="Number">943</Data></Cell>
+    <Cell><Data ss:Type="Number">-686</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="Number">975</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">-1073</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1130</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">-1066</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1318</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">-1035</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1593</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">-1085</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1794</Data></Cell>
+    <Cell><Data ss:Type="Number">-547</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1940</Data></Cell>
+    <Cell><Data ss:Type="Number">-750</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1961</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">-1097</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1795</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">-1361</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1605</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">-1158</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1528</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">-1022</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1341</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">-1242</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1014</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">-1185</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>C1</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

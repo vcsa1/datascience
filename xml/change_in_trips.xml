@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Microsoft Office User</Author>
+  <LastAuthor>Microsoft Office User</LastAuthor>
+  <Created>2018-03-30T18:23:54Z</Created>
+  <Version>15.0</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <PixelsPerInch>96</PixelsPerInch>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>16820</WindowHeight>
+  <WindowWidth>28160</WindowWidth>
+  <WindowTopX>640</WindowTopX>
+  <WindowTopY>1180</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <NumberFormat ss:Format="#,##0"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="change_in_trips">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="5" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
+   <Row>
+    <Cell><Data ss:Type="String">Location</Data></Cell>
+    <Cell><Data ss:Type="String">Uber and Lyft Trips Per Day 2014</Data></Cell>
+    <Cell><Data ss:Type="String">Yellow Taxi Trips Per Day 2014</Data></Cell>
+    <Cell><Data ss:Type="String">Yellow Taxi Trips Per Day 2013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">MN Core</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">26787</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">389416</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">409361</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">JFK</Data></Cell>
+    <Cell><Data ss:Type="Number">831</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8521</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8348</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">LGA</Data></Cell>
+    <Cell><Data ss:Type="Number">736</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9964</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10280</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Outside MN Core*</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9047</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">24862</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">32065</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>C1</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
