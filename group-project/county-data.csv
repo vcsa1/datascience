@@ -202,6 +202,8 @@ Rockville Center,"Nassau, NY"
 Glen Cove,"Nassau, NY"
 Jones Beach,"Nassau, NY"
 MiniVan - Lev,"Nassau, NY"
+Nassau County,"Nassau, NY"
+Suffolk County,"Suffolk, NY"
 Babylon,"Suffolk, NY"
 Babylon,"Suffolk, NY"
 Baiting Hollow,"Suffolk, NY"
@@ -578,97 +580,102 @@ St James,"Suffolk, NY"
 Stonybrook,"Suffolk, NY"
 ISP,"Suffolk, NY"
 Sinai,"Suffolk, NY"
-Baruch,"New York County"
-Bowling Green,"New York County"
-Bryant,"New York County"
-Ansonia,"New York County"
-Audubon,"New York County"
-Canal Street,"New York County"
-Carver,"New York County"
-Castle Clinton National Monument,"New York County"
-Cathedral,"New York County"
-Cherokee,"New York County"
-Chinatown,"New York County"
-Church Street,"New York County"
-College,"New York County"
-Colonial Park,"New York County"
-Columbia University,"New York County"
-Columbus Circle,"New York County"
-Cooper,"New York County"
-Drew-Hamilton,"New York County"
-Empire State,"New York County"
-Federal Hall National Memorial,"New York County"
-Federal Reserve,"New York County"
-Fort George,"New York County"
-Fort Jay,"New York County"
-Fort Washington,"New York County"
-Franklin D. Roosevelt,"New York County"
-Frederick Douglas,"New York County"
-General Grant National Memorial,"New York County"
-Governors Island,"New York County"
-G P O,"New York County"
-Gracie,"New York County"
-Grand Central,"New York County"
-Grand Central Terminal,"New York County"
-Greeley Square,"New York County"
-Greenwich Village,"New York County"
-Hamilton Grange,"New York County"
-Hamilton Grange National Memorial,"New York County"
-Harlem,"New York County"
-Hell Gate,"New York County"
-Howard,"New York County"
-Inwood,"New York County"
-J. W. Johnson,"New York County"
-Lenox Hill,"New York County"
-Lillian Wald,"New York County"
-Lincolnton,"New York County"
-London Terrace,"New York County"
-Madison Square,"New York County"
-Manhattan,"New York County"
-Manhattanville,"New York County"
-Marble Hill,"New York County"
-"Martin Luther King, Jr.","New York County"
-Midtown,"New York County"
-Morgan,"New York County"
-Morningside,"New York County"
-Murray Hill,"New York County"
-New York City,"New York County"
-Number Forty,"New York County"
-Old Chelsa,"New York County"
-One Hundred Thirty Eighth,"New York County"
-Pan Am Building,"New York County"
-Patchin,"New York County"
-Peck Slip,"New York County"
-Peter Stuyvesant,"New York County"
-Pitt,"New York County"
-Planetarium,"New York County"
-Port Authority,"New York County"
-Postal Concentration Center,"New York County"
-Prince,"New York County"
-Radio City Music Hall,"New York County"
-Rockefeller Center,"New York County"
-Roosevelt Island,"New York County"
-South Pole,"New York County"
-Statue of Liberty National Monument,"New York County"
-Theodore Roosevelt Birthplace National Historic Site,"New York County"
-Times Square,"New York County"
-Tompkins Square,"New York County"
-Triborough,"New York County"
-Tudor,"New York County"
-Village,"New York County"
-Wall Street,"New York County"
-Wards Island,"New York County"
-Washington Bridge,"New York County"
-Washington Heights,"New York County"
-West Village,"New York County"
-WTC Battery Park City Airport,"New York County"
-Yorkville,"New York County"
-250 E 73 ST,"New York County"
-Manhatten,"New York County"
-Delancey St,"New York County"
-#NAME?,"New York County"
-MiniVan - New,"New York County"
-Upper West Side,"New York County"
+Baruch,New York County
+Bowling Green,New York County
+Bryant,New York County
+Ansonia,New York County
+Audubon,New York County
+Canal Street,New York County
+Carver,New York County
+Castle Clinton National Monument,New York County
+Cathedral,New York County
+Cherokee,New York County
+Chinatown,New York County
+Church Street,New York County
+College,New York County
+Colonial Park,New York County
+Columbia University,New York County
+Columbus Circle,New York County
+Cooper,New York County
+Drew-Hamilton,New York County
+Empire State,New York County
+Federal Hall National Memorial,New York County
+Federal Reserve,New York County
+Fort George,New York County
+Fort Jay,New York County
+Fort Washington,New York County
+Franklin D. Roosevelt,New York County
+Frederick Douglas,New York County
+General Grant National Memorial,New York County
+Governors Island,New York County
+G P O,New York County
+Gracie,New York County
+Grand Central,New York County
+Grand Central Terminal,New York County
+Greeley Square,New York County
+Greenwich Village,New York County
+Hamilton Grange,New York County
+Hamilton Grange National Memorial,New York County
+Harlem,New York County
+Hell Gate,New York County
+Howard,New York County
+Inwood,New York County
+J. W. Johnson,New York County
+Lenox Hill,New York County
+Lillian Wald,New York County
+Lincolnton,New York County
+London Terrace,New York County
+Madison Square,New York County
+Manhattan,New York County
+Manhattanville,New York County
+Marble Hill,New York County
+"Martin Luther King, Jr.",New York County
+Midtown,New York County
+Morgan,New York County
+Morningside,New York County
+Murray Hill,New York County
+New York City,New York County
+Number Forty,New York County
+Old Chelsa,New York County
+One Hundred Thirty Eighth,New York County
+Pan Am Building,New York County
+Patchin,New York County
+Peck Slip,New York County
+Peter Stuyvesant,New York County
+Pitt,New York County
+Planetarium,New York County
+Port Authority,New York County
+Postal Concentration Center,New York County
+Prince,New York County
+Radio City Music Hall,New York County
+Rockefeller Center,New York County
+Roosevelt Island,New York County
+South Pole,New York County
+Statue of Liberty National Monument,New York County
+Theodore Roosevelt Birthplace National Historic Site,New York County
+Times Square,New York County
+Tompkins Square,New York County
+Triborough,New York County
+Tudor,New York County
+Village,New York County
+Wall Street,New York County
+Wards Island,New York County
+Washington Bridge,New York County
+Washington Heights,New York County
+West Village,New York County
+WTC Battery Park City Airport,New York County
+Yorkville,New York County
+250 E 73 ST,New York County
+Manhatten,New York County
+Delancey St,New York County
+#NAME?,New York County
+MiniVan - New,New York County
+Upper West Side,New York County
+Canal St New York,New York County
+Lexington Ave New York,New York County
+Park Ave S New York,New York County
+th St New York,New York County
+Wall St NYC,New York County
 Bayside,"Queens, NYC"
 Bay Terrace,"Queens, NYC"
 Beechhurst,"Queens, NYC"
@@ -1029,6 +1036,7 @@ Willowbrook,"Richmond County, NYC"
 Woodrow,"Richmond County, NYC"
 Staten I,"Richmond County, NYC"
 MiniVan - Sta,"Richmond County, NYC"
+deluxe - seca,"New Jersey"
 Newark,New Jersey
 Jersey City,New Jersey
 Paterson,New Jersey
@@ -2857,7 +2865,6 @@ Curry,"Sullivan, NY"
 Dahlia,"Sullivan, NY"
 Debruce,"Sullivan, NY"
 Deckertown,"Sullivan, NY"
-Delaware,"Sullivan, NY"
 Divine Corners,"Sullivan, NY"
 East Cochecton,"Sullivan, NY"
 Eldred,"Sullivan, NY"
@@ -2887,7 +2894,6 @@ Hartwood Club,"Sullivan, NY"
 Hasbrouck,"Sullivan, NY"
 Haven,"Sullivan, NY"
 Hazel,"Sullivan, NY"
-Highland,"Sullivan, NY"
 Highland Lake,"Sullivan, NY"
 High View,"Sullivan, NY"
 Highview,"Sullivan, NY"
